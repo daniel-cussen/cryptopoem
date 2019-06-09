@@ -44,7 +44,7 @@ Load a Common Lisp, e.g. sbcl, and run
 
 > clisp script.lisp aeneid.txt
 
-Alternatively, to make a file to compare to aeneid-out.txt
+Alternatively, to make a file to compare to elided-aeneid.txt
 
 > clisp script.lisp aeneid.txt > output.txt
 
