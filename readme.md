@@ -40,7 +40,7 @@ verify it one verse at a time:
 
 * Usage
 
-Load a Common Lisp, e.g. sbcl, and run
+Load a Common Lisp, e.g. clisp, and run
 
 > clisp script.lisp aeneid.txt
 
