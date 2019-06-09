@@ -281,5 +281,3 @@
 	  (incf count (letter-counter str2))
 	  (format t "~4@A ~6@A ~A~%" i count
 		  (concatenate 'string start str2)))))))
-
-(process (car *args*))
