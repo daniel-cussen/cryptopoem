@@ -42,8 +42,13 @@ verify it one verse at a time:
 
 Load a Common Lisp, e.g. sbcl, and run
 
-> sbcl virgil.lisp aeneid.txt
+> clisp script.lisp aeneid.txt
 
 Alternatively, to make a file to compare to aeneid-out.txt
 
-> sbcl virgil.lisp aeneid.txt > output.txt
+> clisp script.lisp aeneid.txt > output.txt
+
+* With SBCL from SLIME
+
+> (load "virgil.lisp")
+> (process "aeneid.txt")
