@@ -52,3 +52,13 @@ Alternatively, to make a file to compare to elided-aeneid.txt
 
 > (load "virgil.lisp")
 > (process "aeneid.txt")
+
+* Notes
+
+The code annotates the plain aeneid in several ways.  First, it adds
+verse numbers from 1 to 9900, which are even more important in this
+poem than they already are in most poetry.  Second, is the cumulative
+letter count.  This helped with reconstructing the poem, especially by
+finding differences between the output of different versions of the
+aeneid.  Finally there's the verse itself, with elided letters in
+parentheses.
