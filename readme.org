@@ -48,7 +48,7 @@ Alternatively, to make a file to compare to elided-aeneid.txt
 
 > clisp script.lisp aeneid.txt > output.txt
 
-* With SBCL from SLIME
+With SBCL from SLIME:
 
 > (load "virgil.lisp")
 > (process "aeneid.txt")
