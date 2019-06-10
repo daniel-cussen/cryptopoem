@@ -1,5 +1,5 @@
 I wrote this tool for my father, Antonio Cussen, who was writing /El
-milenio según Virgilio,/ or /Virgil's Millennium,/ an essay about
+milenio según Virgilio,/ or /Virgil's Millennium/, an essay about
 Virgil's /Aeneid/.  He wanted to reconstruct the epic poem as it was
 originally written by the Roman poet Virgil for Emperor Augustus.
 Part of the task was to identify how the letters were to be counted,
