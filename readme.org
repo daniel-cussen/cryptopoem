@@ -1,5 +1,5 @@
 I wrote this tool for my father, Antonio Cussen, who was writing /El
-milenio según Virgilio,/ or /Virgil's Millennium/, an essay about
+milenio según Virgilio/, or /Virgil's Millennium/, an essay about
 Virgil's /Aeneid/.  He wanted to reconstruct the epic poem as it was
 originally written by the Roman poet Virgil for Emperor Augustus.
 Part of the task was to identify how the letters were to be counted,
@@ -12,7 +12,7 @@ letters, one per day of the year, which literally says it has a letter
 for each day of the year.  /The Aeneid/ similarly has a letter per day
 in a Great Year.  A /Great Year/ for Virgil is a millennium of 9
 saecula (/great cycles/, similar to centuries) of 110 years each,
-making 990 years.  The /Last Age,/ the remaining 10 years of the
+making 990 years.  The /Last Age/, the remaining 10 years of the
 millennium, represent the violent and cataclysmic end of the cycle.
 From that point on a new cycle begins.  The
 beginning of /the Aeneid/ covers the Trojan War, which was the period of
