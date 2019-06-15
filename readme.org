@@ -23,7 +23,7 @@ the Roman Empire.  This special millennium is reflected in the poem,
 where the number of pronounced letters in 9900 verses is exactly
 361600, in other words, the total is 990 x 365 25/99 = 361600.
 
-Included is an Aeneid as published in Volume II of /Virgil's
+Included is an /Aeneid/ as published in Volume II of /Virgil's
 Millennium/.  It is in Latin and its correctness has been approximated
 to the highest degree made possible by surviving manuscripts and the
 hidden mathematical structure of the poem itself.  It's choices are
@@ -61,7 +61,7 @@ With SBCL from SLIME:
 
 * Notes
 
-The code annotates the plain aeneid in several ways.  First, it adds
+The code annotates the plain /Aeneid/ in several ways.  First, it adds
 verse numbers from 1 to 9900, which are even more important in this
 poem than they already are in most poetry.  Second, is the cumulative
 letter count.  This helped with reconstructing the poem, especially by
