@@ -6,7 +6,7 @@ poet Virgil for Emperor Augustus.  Part of the task was to identify
 how the letters were to be counted, because the number of letters in
 the poem is meaningful.
 
-Written between 29 and 19 BCE, only two decades after the of the
+Written between 29 and 19 BCE, only two decades after the
 Julian reform of the calendar by Julius Caesar, who established the
 solar year of 365 1/4 days, /the Aeneid/ immortalizes that calendar in
 a poem.  There was a short Alexandrian poem of 365 letters, one per
